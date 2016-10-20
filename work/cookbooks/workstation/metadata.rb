@@ -1,0 +1,7 @@
+name 'workstation'
+maintainer 'Danny Smith'
+maintainer_email 'hi@danny.is'
+license 'all_rights'
+description 'Installs and Configures Dev Workstation'
+long_description 'Installs and Configures Dev Workstation'
+version '0.1.0'
